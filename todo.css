@@ -1,0 +1,33 @@
+body{
+    margin: 10px;
+    background-color: rgb(97, 56, 26) !important;
+}
+
+.textarena{
+    display: flex !important;
+    justify-content: center !important;
+    margin-top: 30px !important;
+    font-size: 14px;
+}
+#inp{
+    border: 1px solid grey !important;
+    width: 400px !important;
+    padding: 10px;
+    border-radius: 5px !important;
+}
+table{
+    display: block !important;
+    margin-left: 40px !important;
+}
+
+.thead{
+    width: 100% !important;
+}
+/* .chan{
+    width: 64px;
+    outline: none;
+    color: white;
+    height: 45px; */
+    /* border: 1px solid; */
+        /* border-radius: 4px;
+    } */
